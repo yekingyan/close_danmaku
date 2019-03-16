@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         默认关闭弹幕
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/yekingyan/close_danmaku/
 // @version      0.1
-// @description  默认关闭弹幕
+// @description  默认关闭弹幕!!!
 // @author       Yekingyan
 // @match        https://www.bilibili.com/*
 // @run-at        document-start
