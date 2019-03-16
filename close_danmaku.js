@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         默认关闭弹幕
+// @name         close_danmaku 默认关闭弹幕
 // @namespace    https://github.com/yekingyan/close_danmaku/
 // @version      0.1
 // @description  默认关闭弹幕!!! 支持bilibi
